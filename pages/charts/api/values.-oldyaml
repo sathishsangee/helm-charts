@@ -1,0 +1,6 @@
+mysql_svc_name: mysql
+dbname: pages
+
+deployment:
+  containerPort: 8080
+  replicaCount: 1

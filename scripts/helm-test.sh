@@ -9,7 +9,7 @@ kubectl config get-contexts
 kubectl create ns "$NAMESPACE"
 kubectl config set-context --current --namespace "$NAMESPACE"
 #helm lint pages
-helm template pages
+#helm template pages
 
 
 echo "------------------------Start time is--------  $(date +%Y-%m-%dT%H%M%S%z)"

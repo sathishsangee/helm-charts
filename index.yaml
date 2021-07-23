@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  pages:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-07-23T18:40:44.256988302+01:00"
+    description: A Helm chart for Pages Application
+    digest: db67b2521b68a41d2313ed103624167ebd417656793a046e1e5d113ca013cfdf
+    name: pages
+    type: application
+    urls:
+    - pages-0.1.0.tgz
+    - https://sathishsangee.github.io/helm-charts/
+    version: 0.1.0
+generated: "2021-07-23T18:40:44.255128006+01:00"
